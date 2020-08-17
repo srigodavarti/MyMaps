@@ -1,5 +1,5 @@
 import mqapi
-from mapquestclasses import Directions, Distance, Time, Latlng, Elevation
+from mqclasses import Directions, Distance, Time, Latlng, Elevation
 import socket
 import urllib
 
