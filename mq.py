@@ -1,4 +1,4 @@
-import mapquestapi
+import mqapi
 from mapquestclasses import Directions, Distance, Time, Latlng, Elevation
 import socket
 import urllib
