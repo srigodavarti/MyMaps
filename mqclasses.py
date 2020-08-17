@@ -1,4 +1,4 @@
-import mapquestapi
+import mqapi
 
 class Directions:
     '''objects which can print out steps'''
